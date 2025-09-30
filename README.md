@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hello, I'm Michael!
+<a href="https://www.linkedin.com/in/michael-end-24bb6a296/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/michael-end-24bb6a296)
+
+
 
 <!--
 **michaelend1/michaelend1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
