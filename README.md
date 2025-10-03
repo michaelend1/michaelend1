@@ -5,6 +5,10 @@
 
 I'm a recent Networking and Cybersecurity Graduate with a love for technology and solving intricate problems.
 
+## My Goal
+
+I want to become a cybersecurity professional and work as a SOC Analyst (TEMPORARY FILLER)
+
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -13,6 +17,7 @@ I'm a recent Networking and Cybersecurity Graduate with a love for technology an
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-008080?logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
+
 
 
 
