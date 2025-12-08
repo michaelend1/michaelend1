@@ -3,7 +3,7 @@
 
 ## About me
 
-I'm a recent Networking and Cybersecurity Graduate with a love for technology and solving intricate problems.
+I'm a recent Networking and Cybersecurity Graduate with a love for technology and solving intricate problems. I recently graduated from FingerLakes Commmunity College with an A.A.S degree in Networking and Cybersecurity. Now I am continuing my education at University at Albany majoring in Cybersecurity. 
 
 ## My Goal
 
