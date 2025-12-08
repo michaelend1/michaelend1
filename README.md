@@ -7,7 +7,7 @@ I'm a recent Networking and Cybersecurity Graduate with a love for technology an
 
 ## My Goal
 
-I want to become a cybersecurity professional and work as a SOC Analyst (TEMPORARY FILLER)
+To become a Cybersecurity professional and understand threats, prevent attacks, and keep an organizations data safe in order to operate without fear.
 
 ## Skills
 
