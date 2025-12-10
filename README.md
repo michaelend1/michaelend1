@@ -3,14 +3,16 @@
 
 ## About me
 
-I'm a recent Networking and Cybersecurity Graduate with a love for technology and solving intricate problems. I recently graduated from FingerLakes Commmunity College with an A.A.S degree in Networking and Cybersecurity. Now I am continuing my education at University at Albany majoring in Cybersecurity. 
+I'm a Networking and Cybersecurity graduate with a strong passion for technology, hands-on problem solving, and building secure systems. I completed my A.A.S. in Networking & Cybersecurity at Finger Lakes Community College, and I’m continuing my education at the University at Albany majoring in Cybersecurity.
+
+I enjoy working with real systems, breaking things, fixing them, and understanding how networks and security tools operate in practice.
 
 ## My Goal
 
 To become a Cybersecurity professional and understand threats, prevent attacks, and keep an organizations data safe in order to operate without fear.
 
 ## Skills
-
+Here are some of the technologies and areas I work with:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
