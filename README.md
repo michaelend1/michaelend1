@@ -13,6 +13,7 @@ To become a Cybersecurity professional and understand threats, prevent attacks, 
 
 ## Skills
 Here are some of the technologies and areas I work with:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
