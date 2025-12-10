@@ -21,6 +21,9 @@ Here are some of the technologies and areas I work with:
 ![Networking](https://img.shields.io/badge/Networking-008080?logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 
+## Porjects & Labs
+Below are hands-on networking and cybersecurity labs and projects that I've completed using Windows 10, Windows server 2022 and Linux virtual machines
+
 
 
 
